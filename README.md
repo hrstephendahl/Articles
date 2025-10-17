@@ -1,2 +1,15 @@
-# Articles
-Articles &amp; documentation on running AI workloads on local hardware, server optimisation, and decentralised hosting and other stuff
+articles/
+│
+├── README.md
+├── ai-workloads/
+│   ├── running-llama-locally.md
+│   ├── gpu-setup-guide.md
+│
+├── server-optimisation/
+│   ├── tuning-bios-for-performance.md
+│   ├── storage-raid-setup.md
+│
+└── decentralised-hosting/
+    ├── intro-to-decentralised-architecture.md
+    ├── data-security-best-practices.md
+
