@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/hrstephendahl/Articles/raw/main/logo.jpeg" width="150" alt="Fukura AI Logo">
+ <img src="https://github.com/hrstephendahl/Articles/raw/main/LogoColorNoText.jpeg" width="150" alt="Fukura AI Logo">
 </p>
 
 <h1 align="center">📚 Articles & Documentation</h1>
